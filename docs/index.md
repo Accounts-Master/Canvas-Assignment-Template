@@ -4,9 +4,11 @@ layout: tabbed-assignment
 
 # Overview
 
-<img src="assets/images/screen-capture.png" align="right" width="50%">
+<!--img src="" align="right" width="50%"-->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+If you're here, you're already partly done with the assignment. Good job!
+
+Click on the **Instructions** tab and follow along in the slides to finish setting up your account.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
