@@ -8,6 +8,8 @@ layout: tabbed-assignment
 
 If you're here, you're already partly done with the assignment. Good job!
 
+Take a look at the **Learning Targets**, then…
+
 Click on the **Instructions** tab and follow along in the slides to finish setting up your account.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
